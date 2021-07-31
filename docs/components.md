@@ -581,7 +581,6 @@ places, but will require additional styling effort.
 
 #### Example usage
 
-Using the message _MediaWiki:Secondary-menu_:
 ``` xml
 <component type="NavMenu" flatten="navigation"/>
 ```
